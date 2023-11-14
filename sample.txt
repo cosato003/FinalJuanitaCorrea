@@ -4,3 +4,9 @@ ID: 335, Monto: 200,00, Emisor: Persona Juridica, Receptor: Persona Juridica, Ho
 ID: 76, Monto: 200,00, Emisor: Persona Natural, Receptor: Persona Natural, Hora: 0, Ciudad: Ciudad A
 ID: 671, Monto: 200,00, Emisor: Persona Natural, Receptor: Persona Juridica, Hora: 0, Ciudad: Ciudad A
 ID: 553, Monto: 200,00, Emisor: Persona Natural, Receptor: ONG, Hora: 23, Ciudad: Ciudad A
+ID: 678, Monto: 200,00, Emisor: ONG, Receptor: Persona Juridica, Hora: 0, Ciudad: Ciudad A
+ID: 747, Monto: 200,00, Emisor: Persona Juridica, Receptor: ONG, Hora: 0, Ciudad: Ciudad A
+ID: 277, Monto: 200,00, Emisor: Persona Juridica, Receptor: ONG, Hora: 18, Ciudad: Ciudad A
+ID: 705, Monto: 200,00, Emisor: Persona Juridica, Receptor: Persona Natural, Hora: 4, Ciudad: Ciudad A
+ID: 892, Monto: 200,00, Emisor: Persona Natural, Receptor: Persona Natural, Hora: 9, Ciudad: Ciudad A
+ID: 38, Monto: 200,00, Emisor: Persona Natural, Receptor: Persona Natural, Hora: 4, Ciudad: Ciudad A
